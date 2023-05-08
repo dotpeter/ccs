@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/crew-pt/crew_cs#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.5",
+    "browser-sync": "^2.29.1",
     "gulp": "^4.0.1",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-filter": "^5.1.0",
