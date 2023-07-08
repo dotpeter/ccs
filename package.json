@@ -24,11 +24,11 @@
     "gulp-line-ending-corrector": "^1.0.3",
     "gulp-notify": "^3.2.0",
     "gulp-rename": "^1.4.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^5.1.0",
     "gulp-sort": "^2.0.0",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglifycss": "^1.1.0",
     "gulp-wp-pot": "^2.3.5",
-    "node-sass": "^4.12.0"
+    "node-sass": "^9.0.0"
   }
 }
